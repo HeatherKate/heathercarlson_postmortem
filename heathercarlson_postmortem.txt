@@ -1,0 +1,88 @@
+Post-mortem Questionnaire: Heather Carlson 
+Project Name & Number: Slack Clone 
+Description: Using Node and React, clone Slack
+
+Project Manager: Sarah
+Project Sponsor: Erty
+Date: May 10, 2016
+
+Project Post-mortem Questionnaire
+---------------------------------------------------------------------------------------------------------------------
+1.	General:
+
+1.1.	What things did you think went well on the project?
+
+						> Genarally speaking I understood that each portion of the application had to have it's own file. 
+					
+1.2.	What was the single most frustrating part of the project?
+
+					> The amount of help I needed to understand the most basic of tasks. Tasks I didn't ever complete. More specifically, how to call a function from another file into the main node file. 
+
+1.3.	How would you do things differently next time to avoid this frustration?
+					
+					> Next time I would work enough prior to joining the class in order to have the money necessary to have time on the weekends to meet with study 
+					groups to help me to understand these things on my own. 
+
+
+1.4.	Were there any other issues/changes that should be considered?  Please offer suggestions for methods of improvement.
+						
+						>  In terms of teaching style, maybe going through the ways to call functions into each file and reference the various parts of a function. This may be only a "me" problem. 
+
+
+2.	Success Criteria:
+
+What rating would you give for each of the success criteria defined in the Project Charter?  (Indicate as a percentage).
+        Exceed: 85-100%     Met: 60-85%     Not Met:  0-60%
+Success Criteria #1
+           > 65% - this is because I got success criteria working but only because of Erty's instruction, not my own understanding. 	
+
+Success Criteria #2
+					> 10% - mainly for the fact that I generally understand what I have to do but have no idea how to execute, so nothing was completed. 
+
+Success Criteria #3
+					> 0% - for a lack of understanding how to implement
+
+Success Criteria #4
+					> N/A
+
+3.	Project Management & Scheduling:
+
+3.1.	Were the goals of the project clear to you?
+					> Yes
+
+3.2.	How complete do you think the planning was before the actual commencement of work?  What could have been improved?
+				> Fairly complete, Erty provided us with the main framework of the project. Maybe more clarity on whether the messages in Criteria One had to be 
+				tied to a specific user. 
+
+3.3.	Was the schedule realistic?
+				> Yes. 
+
+3.4.	Was the schedule detailed enough?
+				> Yes. 
+
+3.5.	What were the biggest obstacles to meeting the scheduled dates/milestones?
+				>  Due to financial hardship I have to work many hours on the weekend resulting in pure exhaustion on Sundays, I am also dog/house sitting and could not sleep in the house resulting in little to no sleep over the weekend and prior to class Monday, my own lack of understanding of how the code was connected. 
+
+4.	Resources:
+
+4.1.	Were there enough resources assigned to the project, given the schedule constraints?  If no, where could there have been more resources assigned?
+				> I think having more people to help with students as they became stuck would have been beneficial
+
+4.2.	Was there sufficient time for working on this project in addition to your day-to-day job?  How could this be improved?
+				> No, however, I could arrange my schedule to better maximize my working hours. This cannot be improved by the school but rather myself. 
+
+
+Other Comments on the Project:
+
+Focus on:
+  * What went right? The things that went right were just what I recieved from Erty. 
+  * What did you learn? I learned a bit about how things are connected. Also that I need to spend more time learning how to connect files. 
+  * How could you have improved the experience? Definitely time management as well as asking for time when I need it with instructors. 
+  * What environmental factors contributed to the success/failure? Work, dog/house sitting, a lack of sleep, it was hard to work with the learning styles of specific students during free-work time (which is not a down on them, it was just overwhelming)
+  * What went wrong, and how can you avoid these things in the future? I didn't get anything accomplished. I was over-extended in my personal life and failed to grasp many techniques necessary for completing even the most basic functions. 
+  * What questions did this project raise for you? "How do I connect these things?" "Would my sign-up sheet need to be within the app like the message sheets?" "Do I need to call the sign-up into the html?" "How do I do that?"
+    
+ If you can, include the following:
+   * What concepts from this project do you now feel like you really know? Today I grasped a bit more what exactly node is. I feel like I know what is served to the client/the server way more. 
+   * What concepts are still somewhat fuzzy for you? What exactly React is, what it looks like, etc. How to call functions into other files. How to 
+   * What concepts seem like they're still out of reach? How to sit down and do this on my own - without being walked through it. 
